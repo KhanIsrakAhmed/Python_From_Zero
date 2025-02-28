@@ -39,3 +39,4 @@ print()
 address = '''Dhaka Bangladesh UIU'''
 
 print(address)
+print(address.upper())
