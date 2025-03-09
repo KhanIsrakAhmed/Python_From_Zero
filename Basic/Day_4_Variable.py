@@ -24,3 +24,18 @@ ispersonGenius = True
 print("Name : "+personNameFirst+" "+personNameLast)
 print("age " + str(personAge))  # int to str convert
 print("Genius : " + str(ispersonGenius))
+
+age = 12 
+
+if age>18:
+    print("You are an adult")
+    print("You can vote")
+    print("Your age : " + str(age))
+
+
+
+else:
+    print("You are a Child")
+    print("Your age : " + str(age))
+
+print("End of this Program")
