@@ -12,9 +12,8 @@ import math as m
 print(m.pi)
 
 
-from math import pi,sqrt   # Good Practice
+from math import pi,sqrt   # Good Practice LEVEL
 print(pi)
-
 
 from math import pi as PI
 print(PI)
