@@ -9,3 +9,8 @@ class Student:
 
     def printFullName(self):            # create Function into a Class
         print(self.first_name + ' ' + self.last_name)
+
+
+obj = Student("Israk", "Ahmed", 3.88, 45)   # Create Object
+obj.printFullName()                   # Call Fucnction
+
