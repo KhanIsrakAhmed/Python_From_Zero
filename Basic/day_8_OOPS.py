@@ -14,3 +14,6 @@ class Student:
 obj = Student("Israk", "Ahmed", 3.88, 45)   # Create Object
 obj.printFullName()                   # Call Fucnction
 
+
+obj.first_name = "Mowdud"                # Change atribute value
+obj.printFullName()                   # Call Function
